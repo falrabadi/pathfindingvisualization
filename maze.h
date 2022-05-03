@@ -1,7 +1,6 @@
 #pragma once
-#pragma once
 #include <iostream>
-#include <fstream>;
+#include <fstream>
 #include <stack>
 #include <chrono>
 using namespace std;
